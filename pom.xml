@@ -73,7 +73,7 @@
         <version.java>11</version.java>
 
         <version.gson>2.8.6</version.gson>
-        <version.hibernateCore>5.4.10.Final</version.hibernateCore>
+        <version.hibernateCore>5.4.24.Final</version.hibernateCore>
         <version.hibernateValidator>6.1.1.Final</version.hibernateValidator>
         <version.jakartaEl>3.0.3</version.jakartaEl>
         <version.junitJupiter>5.6.0</version.junitJupiter>
